@@ -1,2 +1,3 @@
 # Mathematics-and-Blockchain
-use of mathematics with blockchain.
+Use of mathematics with blockchain.
+Author : Manikant Kumar
